@@ -18,4 +18,4 @@ High return rates in e-commerce drastically impact profit margins. This project 
 <img width="1328" height="727" alt="Screenshot 2026-04-26 021620" src="https://github.com/user-attachments/assets/b2434bf2-9f23-464e-bd00-25c5da7cb61f" />
 
 
-The DAX-powered dashboard allows stakeholders to drill down into product categories, regional fulfillment centers, and return reasons to make immediate operational decisions.
+- The DAX-powered dashboard allows stakeholders to drill down into product categories, regional fulfillment centers, and return reasons to make immediate operational decisions.
