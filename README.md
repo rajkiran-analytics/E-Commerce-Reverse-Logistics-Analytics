@@ -2,8 +2,6 @@
 Quantifying a $3.84M financial drain using Gartner's 4-Tier Analytics Framework on proxy e-commerce data.
 
 
-# E-Commerce Reverse Logistics: A 4-Tier Analytics Framework
-
 # Business Problem
 High return rates in e-commerce drastically impact profit margins. This project applies Gartner's 4-Tier Analytics Framework (Descriptive, Diagnostic, Predictive, Prescriptive) to a 10,000-row generalized fashion segment proxy dataset to uncover the financial drain caused by reverse logistics.
 
